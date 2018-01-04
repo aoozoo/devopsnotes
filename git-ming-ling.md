@@ -21,7 +21,7 @@
 [root@node_106_192.168.183.106 ~]#  git config -l
 user.name=Kinson.Pan
 user.email=Kinson@Pan.com
-[root@node_106_192.168.183.106 ~]# 
+[root@node_106_192.168.183.106 ~]#
 ```
 
 # add
@@ -32,7 +32,11 @@ user.email=Kinson@Pan.com
 
 # commit
 
+```
+git commit -m "v0.0.1"
+```
 
+# init
 
 
 
